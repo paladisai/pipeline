@@ -1,2 +1,1 @@
-hiiii jenkins
-pipeline syntax
+hi jenkins
